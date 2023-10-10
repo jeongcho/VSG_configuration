@@ -4556,7 +4556,7 @@
     },
     "instantiation_033": {
       "action": "add",
-      "disable": false,
+      "disable": true,
       "fixable": true,
       "indentSize": 2,
       "indentStyle": "spaces",
@@ -7744,7 +7744,7 @@
       "severity": "Error"
     },
     "variable_007": {
-      "disable": false,
+      "disable": true,
       "fixable": false,
       "indentSize": 2,
       "indentStyle": "spaces",

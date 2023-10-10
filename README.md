@@ -1,2 +1,4 @@
-# VSG_configuration
-vhdl style guide configuration file
+# vhdl-style-guide’s documentation!
+
+https://vhdl-style-guide.readthedocs.io/
+
