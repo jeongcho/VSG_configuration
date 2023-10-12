@@ -6461,7 +6461,7 @@
       "style": "no_blank_line_line"
     },
     "process_022": {
-      "disable": false,
+      "disable": true,
       "fixable": true,
       "indentSize": 2,
       "indentStyle": "spaces",
