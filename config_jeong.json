@@ -4304,7 +4304,7 @@
       "severity": "Error"
     },
     "if_030": {
-      "disable": false,
+      "disable": true,
       "fixable": true,
       "indentSize": 2,
       "indentStyle": "spaces",
@@ -4313,7 +4313,7 @@
       "style": "require_blank_line"
     },
     "if_031": {
-      "disable": false,
+      "disable": true,
       "fixable": true,
       "indentSize": 2,
       "indentStyle": "spaces",
