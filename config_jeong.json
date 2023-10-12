@@ -6470,7 +6470,7 @@
       "style": "require_blank_line"
     },
     "process_023": {
-      "disable": false,
+      "disable": true,
       "fixable": true,
       "indentSize": 2,
       "indentStyle": "spaces",
