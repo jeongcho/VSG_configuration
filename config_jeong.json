@@ -1777,7 +1777,7 @@
       "severity": "Error"
     },
     "case_007": {
-      "disable": false,
+      "disable": true,
       "fixable": true,
       "indentSize": 2,
       "indentStyle": "spaces",
@@ -1795,7 +1795,7 @@
       "style": "require_blank_line"
     },
     "case_010": {
-      "disable": false,
+      "disable": true,
       "fixable": true,
       "indentSize": 2,
       "indentStyle": "spaces",
