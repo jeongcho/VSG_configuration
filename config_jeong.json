@@ -4664,7 +4664,7 @@
       "severity": "Warning"
     },
     "length_002": {
-      "disable": false,
+      "disable": true,
       "fixable": false,
       "indentSize": 2,
       "indentStyle": "spaces",
@@ -4907,7 +4907,7 @@
       "style": "no_code"
     },
     "loop_statement_201": {
-      "disable": false,
+      "disable": true,
       "fixable": true,
       "indentSize": 2,
       "indentStyle": "spaces",
@@ -4916,7 +4916,7 @@
       "style": "require_blank_line"
     },
     "loop_statement_202": {
-      "disable": false,
+      "disable": true,
       "fixable": true,
       "indentSize": 2,
       "indentStyle": "spaces",
