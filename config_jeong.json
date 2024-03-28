@@ -7358,7 +7358,7 @@
       "severity": "Error"
     },
     "subprogram_body_201": {
-      "disable": false,
+      "disable": true,
       "fixable": true,
       "indentSize": 2,
       "indentStyle": "spaces",
@@ -7367,7 +7367,7 @@
       "style": "require_blank_line"
     },
     "subprogram_body_202": {
-      "disable": false,
+      "disable": true,
       "fixable": true,
       "indentSize": 2,
       "indentStyle": "spaces",
