@@ -4564,7 +4564,7 @@
       "severity": "Error"
     },
     "instantiation_034": {
-      "disable": false,
+      "disable": true,
       "fixable": false,
       "indentSize": 2,
       "indentStyle": "spaces",
@@ -4898,7 +4898,7 @@
       "severity": "Error"
     },
     "loop_statement_200": {
-      "disable": false,
+      "disable": true,
       "fixable": true,
       "indentSize": 2,
       "indentStyle": "spaces",
@@ -4925,7 +4925,7 @@
       "style": "require_blank_line"
     },
     "loop_statement_203": {
-      "disable": false,
+      "disable": true,
       "fixable": true,
       "indentSize": 2,
       "indentStyle": "spaces",
@@ -7376,7 +7376,7 @@
       "style": "require_blank_line"
     },
     "subprogram_body_203": {
-      "disable": false,
+      "disable": true,
       "fixable": true,
       "indentSize": 2,
       "indentStyle": "spaces",
@@ -7385,7 +7385,7 @@
       "style": "require_blank_line"
     },
     "subprogram_body_204": {
-      "disable": false,
+      "disable": true,
       "fixable": true,
       "indentSize": 2,
       "indentStyle": "spaces",
