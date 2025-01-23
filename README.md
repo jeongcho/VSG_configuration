@@ -18,10 +18,12 @@ Ctrl + Shift + P를 눌러 `Preferences: Open Keyboard Shortcuts (JSON)`을 선�
 
 ``` json
 {
-  "key": "shift+alt+f",
-  "command": "workbench.action.tasks.runTask",
-  "args": "vsg-fix",
-  "when": "editorTextFocus && editorLangId == vhdl"
+  {
+    "key": "shift+alt+f",
+    "command": "workbench.action.tasks.runTask",
+    "args": "vsg-fix",
+    "when": "editorTextFocus && editorLangId == vhdl"
+  }
 }
 ```
 
