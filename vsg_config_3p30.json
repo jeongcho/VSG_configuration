@@ -3309,7 +3309,7 @@
     "entity_008": {
       "case": "lower",
       "case_exceptions": [],
-      "disable": false,
+      "disable": true,
       "fixable": true,
       "indent_size": 2,
       "indent_style": "spaces",
