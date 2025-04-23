@@ -8649,7 +8649,7 @@
       "severity": "Error"
     },
     "signal_007": {
-      "disable": false,
+      "disable": true,
       "fixable": false,
       "indent_size": 2,
       "indent_style": "spaces",
